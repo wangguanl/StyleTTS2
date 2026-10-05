@@ -1,1 +1,8 @@
 __pycache__
+
+# --- local runtime: models / caches / artifacts (not versioned) ---
+Models/
+_cache/
+_hf_LJSpeech/
+_tools/
+outputs/
